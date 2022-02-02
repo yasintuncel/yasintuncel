@@ -1,7 +1,7 @@
 ## Hi there, I'm Yasin TUNCEL 👋 
----
+
 ### Software Developer | Indie Game Developer | Electronics Engineer | Repairman of Family
----
+
 - It was 2011 when I first learned about the software.
 - I learned the C language first. I made simple applications about threads and sockets with C.
 - Then I learned Java language and learned OOP structure.
@@ -17,18 +17,19 @@
 ![GitHub Streak](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yasintuncel&theme=vue)
 
 ## Connect with me
+
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/yasintuncel)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/yasintuncel)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](yasintuncel.eee@gmail.com)
 [![Dev.to Badge](https://img.shields.io/badge/dev.to-0A0A0A?style=flat-square&logo=dev.to&logoColor=white)](https://dev.to/yasintuncel)
 
 
-### 📺 Latest My YouTube Playlist
+## Latest My YouTube Playlist
 
 - [Battler Tactics Online - A Multiplayer, Auto-Battler Game](https://www.youtube.com/playlist?list=PLgNiiki9fcRimdUtLrzGDAqI_qy4ESH38)
 - [more videos...](https://www.youtube.com/channel/UCkz9wEECdb5Ov4tkQWa2EwA)
 
-### Recent Activity
+## Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
 
