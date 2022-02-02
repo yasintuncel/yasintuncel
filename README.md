@@ -29,6 +29,7 @@
 - [more videos...](https://www.youtube.com/channel/UCkz9wEECdb5Ov4tkQWa2EwA)
 
 ### Recent Activity
-<!--START_SECTION:activity-->
 
-<!--END_SECTION:activity-->
+<!--RECENT_ACTIVITY:start-->
+
+<!--RECENT_ACTIVITY:last_update-->
