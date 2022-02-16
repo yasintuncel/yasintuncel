@@ -35,13 +35,13 @@
 ## Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [yasintuncel/randomstring_dart](https://github.com/yasintuncel/randomstring_dart)
-2. ✔️ Closed issue [#33](https://github.com/yasintuncel/BTO-Client-Unity/issues/33) in [yasintuncel/BTO-Client-Unity](https://github.com/yasintuncel/BTO-Client-Unity)
-3. 🎉 Merged PR [#35](https://github.com/yasintuncel/BTO-Client-Unity/pull/35) in [yasintuncel/BTO-Client-Unity](https://github.com/yasintuncel/BTO-Client-Unity)
-4. 💪 Opened PR [#35](https://github.com/yasintuncel/BTO-Client-Unity/pull/35) in [yasintuncel/BTO-Client-Unity](https://github.com/yasintuncel/BTO-Client-Unity)
-5. ❗️ Opened issue [#34](https://github.com/yasintuncel/BTO-Client-Unity/issues/34) in [yasintuncel/BTO-Client-Unity](https://github.com/yasintuncel/BTO-Client-Unity)
+1. ❗️ Opened issue [#43](https://github.com/yasintuncel/BTO-Server-Node/issues/43) in [yasintuncel/BTO-Server-Node](https://github.com/yasintuncel/BTO-Server-Node)
+2. ✌️ Released [First Release](https://github.com/yasintuncel/randomstring_dart/releases/tag/v0.0.2) in [yasintuncel/randomstring_dart](https://github.com/yasintuncel/randomstring_dart)
+3. 📔 Created new repository [yasintuncel/randomstring_dart](https://github.com/yasintuncel/randomstring_dart)
+4. ✔️ Closed issue [#33](https://github.com/yasintuncel/BTO-Client-Unity/issues/33) in [yasintuncel/BTO-Client-Unity](https://github.com/yasintuncel/BTO-Client-Unity)
+5. 🎉 Merged PR [#35](https://github.com/yasintuncel/BTO-Client-Unity/pull/35) in [yasintuncel/BTO-Client-Unity](https://github.com/yasintuncel/BTO-Client-Unity)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, February 15th, 2022, 9:12:59 AM
+Last Updated: Wednesday, February 16th, 2022, 9:12:23 AM
 <!--RECENT_ACTIVITY:last_update_end-->
