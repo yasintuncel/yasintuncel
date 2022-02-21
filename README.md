@@ -35,13 +35,13 @@
 ## Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#44](https://github.com/yasintuncel/BTO-Server-Node/issues/44) in [yasintuncel/BTO-Server-Node](https://github.com/yasintuncel/BTO-Server-Node)
-2. ❗️ Opened issue [#43](https://github.com/yasintuncel/BTO-Server-Node/issues/43) in [yasintuncel/BTO-Server-Node](https://github.com/yasintuncel/BTO-Server-Node)
-3. ✌️ Released [First Release](https://github.com/yasintuncel/randomstring_dart/releases/tag/v0.0.2) in [yasintuncel/randomstring_dart](https://github.com/yasintuncel/randomstring_dart)
-4. 📔 Created new repository [yasintuncel/randomstring_dart](https://github.com/yasintuncel/randomstring_dart)
-5. ✔️ Closed issue [#33](https://github.com/yasintuncel/BTO-Client-Unity/issues/33) in [yasintuncel/BTO-Client-Unity](https://github.com/yasintuncel/BTO-Client-Unity)
+1. ✔️ Closed issue [#47](https://github.com/yasintuncel/BTO-Server-Node/issues/47) in [yasintuncel/BTO-Server-Node](https://github.com/yasintuncel/BTO-Server-Node)
+2. 🎉 Merged PR [#49](https://github.com/yasintuncel/BTO-Server-Node/pull/49) in [yasintuncel/BTO-Server-Node](https://github.com/yasintuncel/BTO-Server-Node)
+3. 💪 Opened PR [#49](https://github.com/yasintuncel/BTO-Server-Node/pull/49) in [yasintuncel/BTO-Server-Node](https://github.com/yasintuncel/BTO-Server-Node)
+4. 🎉 Merged PR [#48](https://github.com/yasintuncel/BTO-Server-Node/pull/48) in [yasintuncel/BTO-Server-Node](https://github.com/yasintuncel/BTO-Server-Node)
+5. ✔️ Closed issue [#46](https://github.com/yasintuncel/BTO-Server-Node/issues/46) in [yasintuncel/BTO-Server-Node](https://github.com/yasintuncel/BTO-Server-Node)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, February 20th, 2022, 9:12:55 AM
+Last Updated: Monday, February 21st, 2022, 9:14:03 AM
 <!--RECENT_ACTIVITY:last_update_end-->
