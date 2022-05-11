@@ -35,13 +35,13 @@
 ## Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [yasintuncel/JungleRunner](https://github.com/yasintuncel/JungleRunner)
-2. ✔️ Closed issue [#47](https://github.com/yasintuncel/BTO-Server-Node/issues/47) in [yasintuncel/BTO-Server-Node](https://github.com/yasintuncel/BTO-Server-Node)
-3. 🎉 Merged PR [#49](https://github.com/yasintuncel/BTO-Server-Node/pull/49) in [yasintuncel/BTO-Server-Node](https://github.com/yasintuncel/BTO-Server-Node)
-4. 💪 Opened PR [#49](https://github.com/yasintuncel/BTO-Server-Node/pull/49) in [yasintuncel/BTO-Server-Node](https://github.com/yasintuncel/BTO-Server-Node)
-5. 🎉 Merged PR [#48](https://github.com/yasintuncel/BTO-Server-Node/pull/48) in [yasintuncel/BTO-Server-Node](https://github.com/yasintuncel/BTO-Server-Node)
+1. ✔️ Closed issue [#47](https://github.com/yasintuncel/BTO-Server-Node/issues/47) in [yasintuncel/BTO-Server-Node](https://github.com/yasintuncel/BTO-Server-Node)
+2. 🎉 Merged PR [#49](https://github.com/yasintuncel/BTO-Server-Node/pull/49) in [yasintuncel/BTO-Server-Node](https://github.com/yasintuncel/BTO-Server-Node)
+3. 💪 Opened PR [#49](https://github.com/yasintuncel/BTO-Server-Node/pull/49) in [yasintuncel/BTO-Server-Node](https://github.com/yasintuncel/BTO-Server-Node)
+4. 🎉 Merged PR [#48](https://github.com/yasintuncel/BTO-Server-Node/pull/48) in [yasintuncel/BTO-Server-Node](https://github.com/yasintuncel/BTO-Server-Node)
+5. ✔️ Closed issue [#46](https://github.com/yasintuncel/BTO-Server-Node/issues/46) in [yasintuncel/BTO-Server-Node](https://github.com/yasintuncel/BTO-Server-Node)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, May 10th, 2022, 9:15:26 AM
+Last Updated: Wednesday, May 11th, 2022, 9:14:55 AM
 <!--RECENT_ACTIVITY:last_update_end-->
