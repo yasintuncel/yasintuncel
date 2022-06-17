@@ -35,13 +35,13 @@
 ## Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [CreativeIT/material-angular-dashboard](https://github.com/CreativeIT/material-angular-dashboard)
-2. ✔️ Closed issue [#47](https://github.com/yasintuncel/BTO-Server-Node/issues/47) in [yasintuncel/BTO-Server-Node](https://github.com/yasintuncel/BTO-Server-Node)
+1. ⭐ Starred [VB10/flutter-architecture-template](https://github.com/VB10/flutter-architecture-template)
+2. ⭐ Starred [CreativeIT/material-angular-dashboard](https://github.com/CreativeIT/material-angular-dashboard)
 3. 🎉 Merged PR [#49](https://github.com/yasintuncel/BTO-Server-Node/pull/49) in [yasintuncel/BTO-Server-Node](https://github.com/yasintuncel/BTO-Server-Node)
 4. 💪 Opened PR [#49](https://github.com/yasintuncel/BTO-Server-Node/pull/49) in [yasintuncel/BTO-Server-Node](https://github.com/yasintuncel/BTO-Server-Node)
 5. 🎉 Merged PR [#48](https://github.com/yasintuncel/BTO-Server-Node/pull/48) in [yasintuncel/BTO-Server-Node](https://github.com/yasintuncel/BTO-Server-Node)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, June 16th, 2022, 9:14:23 AM
+Last Updated: Friday, June 17th, 2022, 9:18:41 AM
 <!--RECENT_ACTIVITY:last_update_end-->
