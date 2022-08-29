@@ -35,13 +35,13 @@
 ## Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [insthync/awesome-unity3d](https://github.com/insthync/awesome-unity3d)
-2. ⭐ Starred [VB10/flutter-architecture-template](https://github.com/VB10/flutter-architecture-template)
-3. ⭐ Starred [CreativeIT/material-angular-dashboard](https://github.com/CreativeIT/material-angular-dashboard)
+1. 📔 Created new repository [yasintuncel/users](https://github.com/yasintuncel/users)
+2. ⭐ Starred [insthync/awesome-unity3d](https://github.com/insthync/awesome-unity3d)
+3. ⭐ Starred [VB10/flutter-architecture-template](https://github.com/VB10/flutter-architecture-template)
 4. 💪 Opened PR [#49](https://github.com/yasintuncel/BTO-Server-Node/pull/49) in [yasintuncel/BTO-Server-Node](https://github.com/yasintuncel/BTO-Server-Node)
 5. 🎉 Merged PR [#48](https://github.com/yasintuncel/BTO-Server-Node/pull/48) in [yasintuncel/BTO-Server-Node](https://github.com/yasintuncel/BTO-Server-Node)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, August 28th, 2022, 9:14:16 AM
+Last Updated: Monday, August 29th, 2022, 9:15:16 AM
 <!--RECENT_ACTIVITY:last_update_end-->
