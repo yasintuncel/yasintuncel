@@ -35,13 +35,13 @@
 ## Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [yasintuncel/express_with_SSL](https://github.com/yasintuncel/express_with_SSL) from [grizzlypeaksoftware/express_with_SSL](https://github.com/grizzlypeaksoftware/express_with_SSL)
-2. ⭐ Starred [grizzlypeaksoftware/express_with_SSL](https://github.com/grizzlypeaksoftware/express_with_SSL)
-3. 📔 Created new repository [yasintuncel/gateway](https://github.com/yasintuncel/gateway)
-4. 📔 Created new repository [yasintuncel/users](https://github.com/yasintuncel/users)
-5. ⭐ Starred [insthync/awesome-unity3d](https://github.com/insthync/awesome-unity3d)
+1. ⭐ Starred [VB10/kartal](https://github.com/VB10/kartal)
+2. 🔱 Forked [yasintuncel/express_with_SSL](https://github.com/yasintuncel/express_with_SSL) from [grizzlypeaksoftware/express_with_SSL](https://github.com/grizzlypeaksoftware/express_with_SSL)
+3. ⭐ Starred [grizzlypeaksoftware/express_with_SSL](https://github.com/grizzlypeaksoftware/express_with_SSL)
+4. 📔 Created new repository [yasintuncel/gateway](https://github.com/yasintuncel/gateway)
+5. 📔 Created new repository [yasintuncel/users](https://github.com/yasintuncel/users)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, October 9th, 2022, 9:18:11 AM
+Last Updated: Monday, October 10th, 2022, 9:23:21 AM
 <!--RECENT_ACTIVITY:last_update_end-->
