@@ -16,6 +16,12 @@
 
 ![GitHub Streak](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yasintuncel&theme=vue)
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yasintuncel&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yasintuncel&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yasintuncel&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yasintuncel&theme=github)
+
+
 ## My Games on Playstore
 <h align="center"><a href="https://play.google.com/store/apps/details?id=com.garaj9.battleofmiddleearth"><img alt="Battler Tactics" src="https://play-lh.googleusercontent.com/9Rs8qMykHWUZimCGb9Ymqg_UIcRNvRA6MLC0BzGZftZxGA8Q_UbtslNQ1Y-uHBkcC9HB=s180-rw" width="75" height="75" /></a> <a href="https://play.google.com/store/apps/details?id=com.yasintuncel.kidseducationlearn"><img alt="Battler Tactics" src="https://play-lh.googleusercontent.com/D73v4Xzj5Toe40ixlAu1PgaPXtiia5rzRvoRs0G-MnL-AotEMltMrQXwRlP-CkTrOA=s180-rw" width="75" height="75" /></a> <a href="https://play.google.com/store/apps/details?id=com.yasintuncel.stackblocks"><img alt="Battler Tactics" src="https://play-lh.googleusercontent.com/DmbMp6PY66oQukWAVY46okMQkdyRdifC8NbQukkGV6ByA-CRrSuJ5HqE8nE9GjpUfjU=s180-rw" width="75" height="75" /></a> </h>
 
