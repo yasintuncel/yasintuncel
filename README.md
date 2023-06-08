@@ -41,13 +41,13 @@
 ## Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices)
-2. ⭐ Starred [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs)
-3. ⭐ Starred [baba-s/awesome-unity-open-source-on-github](https://github.com/baba-s/awesome-unity-open-source-on-github)
+1. 📔 Created new repository [yasintuncel/esp32-python-uart](https://github.com/yasintuncel/esp32-python-uart)
+2. ⭐ Starred [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices)
+3. ⭐ Starred [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs)
 4. ⭐ Starred [baba-s/awesome-unity-open-source-on-github](https://github.com/baba-s/awesome-unity-open-source-on-github)
-5. 🔱 Forked [yasintuncel/appleboy](https://github.com/yasintuncel/appleboy) from [appleboy/appleboy](https://github.com/appleboy/appleboy)
+5. ⭐ Starred [baba-s/awesome-unity-open-source-on-github](https://github.com/baba-s/awesome-unity-open-source-on-github)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, June 7th, 2023, 9:11:14 AM
+Last Updated: Thursday, June 8th, 2023, 9:11:16 AM
 <!--RECENT_ACTIVITY:last_update_end-->
