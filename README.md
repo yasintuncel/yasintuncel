@@ -41,7 +41,7 @@
 ## Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Turro75/MyMinUI](https://github.com/Turro75/MyMinUI)
+1. ⭐ Starred [volkansenturk/turkiye-iller-ilceler](https://github.com/volkansenturk/turkiye-iller-ilceler)
 2. 📔 Created new repository [yasintuncel/service-creator](https://github.com/yasintuncel/service-creator)
 3. 📔 Created new repository [yasintuncel/node-simple-spa](https://github.com/yasintuncel/node-simple-spa)
 4. 📔 Created new repository [yasintuncel/xlsx_to_json](https://github.com/yasintuncel/xlsx_to_json)
@@ -49,5 +49,5 @@
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, June 3rd, 2026, 10:34:45 AM
+Last Updated: Thursday, June 4th, 2026, 10:18:41 AM
 <!--RECENT_ACTIVITY:last_update_end-->
